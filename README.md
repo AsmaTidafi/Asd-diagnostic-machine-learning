@@ -1,3 +1,3 @@
 # asd-diagnostic-machine-learning
 
-Detection of autism on Adults using machine learning techniques (Decision Trees / Logistic Regression).
+Diagnosis of autism in adults using machine learning techniques (Decision Trees / Logistic Regression).
